@@ -87,7 +87,7 @@ Spiele
 		fouls_02 = 0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1020</x><y>1120</y><w>270</w><h>40</h></coordinates><panel_attributes>bg=light_gray
 transparency=80
 gesamt ergeben sich nach berechnung der
-einzelnen Einträge und Verweise</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>0</x><y>800</y><w>410</w><h>750</h></coordinates><panel_attributes>fg=pink
+einzelnen Einträge und Verweise</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>0</x><y>800</y><w>410</w><h>760</h></coordinates><panel_attributes>fg=pink
 type=Package
 Sponsoren
 	SAP
@@ -107,7 +107,7 @@ Sponsoren
 			spiel_name = "Nike Tournament"
 			spiel_ort = "Stuttgart"
 			spiel_zeit = NULL
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>1560</y><w>410</w><h>60</h></coordinates><panel_attributes>bg=pink
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>1570</y><w>410</w><h>60</h></coordinates><panel_attributes>bg=pink
 transparency=80
 Eingaben werden übernommen, wenn nicht NULL, das bedeutet
 dass der Sponsor kein Recht oder kein Bedarf an Entscheidung hat,
@@ -139,7 +139,7 @@ transparency=80
 Preisgeld errechnet sich aus Funktion
 Angaben werden mit Sponsoren verbunden</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>1670</y><w>1300</w><h>30</h></coordinates><panel_attributes>bg=black
 fg=white
-ENDE</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>420</x><y>800</y><w>410</w><h>750</h></coordinates><panel_attributes>fg=cyan
+ENDE</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>420</x><y>800</y><w>410</w><h>760</h></coordinates><panel_attributes>fg=cyan
 type=Package
 Teams
 	team_00003
@@ -163,7 +163,7 @@ Teams
 		player_00005_00002 = spieler_00231
 		player_00005_00003 = spieler_00124
 		player_00005_00004 = spieler_00100
-		player_00005_00005 = spieler_01225</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>420</x><y>1560</y><w>410</w><h>60</h></coordinates><panel_attributes>bg=cyan
+		player_00005_00005 = spieler_01225</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>420</x><y>1570</y><w>410</w><h>60</h></coordinates><panel_attributes>bg=cyan
 transparency=80
 Eingaben werden übernommen, wenn nicht NULL, das bedeutet
 dass der Sponsor kein Recht oder kein Bedarf an Entscheidung hat,
