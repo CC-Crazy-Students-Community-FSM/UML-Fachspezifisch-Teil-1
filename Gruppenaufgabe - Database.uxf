@@ -1,0 +1,170 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLHierarchy</id><coordinates><x>0</x><y>0</y><w>330</w><h>740</h></coordinates><panel_attributes>fg=cyan
+type=Package
+Spieler
+	spieler_00001
+		punkte
+			spiel_00001 = 1
+			spiel_00002 = 2
+			spiel_00003 = 2
+		körbe
+			spiel_00001 = 3
+			spiel_00002 = 7
+			spiel_00003 = 12
+		fouls
+			spiel_00001 = 0
+			spiel_00002 = 2
+			spiel_00003 = 1
+		teams
+			spiel_00001 = team_00003
+			spiel_00002 = team_00003
+			spiel_00002 = team_00003
+		status
+			spiel_00001 = spieler
+			spiel_00002 = ersatz
+			spiel_0003 = kapitän</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>750</y><w>330</w><h>40</h></coordinates><panel_attributes>bg=cyan
+transparency=80
+gesamtpunkte  oder - körbe, 
+ergeben sich nach berechnung</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>340</x><y>750</y><w>330</w><h>40</h></coordinates><panel_attributes>bg=orange
+transparency=80
+Gruppenspielplan wird aus einer Funktion
+errechnet und zusammengestellt</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>340</x><y>0</y><w>330</w><h>740</h></coordinates><panel_attributes>fg=orange
+type=Package
+Gruppen
+	gruppe_a
+		team_a1 = team_00003
+		team_a2 = team_00013
+		team_a3 = team_00006
+		team_a4 = team_00011
+	gruppe_b
+		team_b1 = team_00009
+		team_b2 = team_00014
+		team_b3 = team_00016
+		team_b4 = team_00004
+	gruppe_c
+		team_c1 = team_00015
+		team_c2 = team_00001
+		team_c3 = team_00012
+		team_c4 = team_00008
+	gruppe_d
+		team_d1 = team_00007
+		team_d2 = team_00005
+		team_d3 = team_00010
+		team_d4 = team_00002</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>1020</x><y>0</y><w>270</w><h>1110</h></coordinates><panel_attributes>fg=light_gray
+type=Package
+Spiele
+	spiel_001
+		gruppe_01 = gruppe_a
+		gruppe_02 = gruppe_b
+		team_01 = team_003
+		team_02 = team_014
+		körbe_01 = 19
+		körbe_02 = 2
+		freistoss_01 = 0
+		freistoss_02 = 0
+		fouls_01 = 0
+		fouls_02 = 2
+	spiel_002
+		gruppe_01 = gruppe_a
+		gruppe_02 = gruppe_d
+		team_01 = team_003
+		team_02 = team_005
+		körbe_01 = 9
+		körbe_02 = 11
+		freistoss_01 = 0
+		freistoss_02 = 0
+		fouls_01 = 2
+		fouls_02 = 1
+	spiel_003
+		gruppe_01 = gruppe_a
+		gruppe_02 = gruppe_a
+		team_01 = team_003
+		team_02 = team_013
+		körbe_01 = 21
+		körbe_02 = 21
+		freistoss_01 = 3
+		freistoss_02 = 1
+		fouls_01 = 2
+		fouls_02 = 0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1020</x><y>1120</y><w>270</w><h>40</h></coordinates><panel_attributes>bg=light_gray
+transparency=80
+gesamt ergeben sich nach berechnung der
+einzelnen Einträge und Verweise</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>0</x><y>800</y><w>410</w><h>750</h></coordinates><panel_attributes>fg=pink
+type=Package
+Sponsoren
+	SAP
+		spiel_00001 = 35000
+			aufteilung = 50,35,15
+			spiel_name = NULL
+			spiel_ort = NULL
+			spiel_zeit = NULL
+		spiel_00003 = 50000
+			aufteilung = NULL
+			spiel_name = "SAP Streetplay"
+			spiel_ort = "Mannheim"
+			spiel_zeit = "19.05 bis 20.05.23"
+	Nike
+		spiel_00002 = 70000
+			aufteilung = 70,20,10
+			spiel_name = "Nike Tournament"
+			spiel_ort = "Stuttgart"
+			spiel_zeit = NULL
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>1560</y><w>410</w><h>60</h></coordinates><panel_attributes>bg=pink
+transparency=80
+Eingaben werden übernommen, wenn nicht NULL, das bedeutet
+dass der Sponsor kein Recht oder kein Bedarf an Entscheidung hat,
+also nur der Veranstalter entscheidet</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>680</x><y>0</y><w>330</w><h>740</h></coordinates><panel_attributes>fg=green
+type=Package
+Plan
+	spiel_00001
+		budget = 35000
+		kosten = 5000
+		aufteilung = 50,35,15
+		spiel_name = "Testspiel"
+		spiel_ort = "Köln"
+		spiel_zeit = "10.01 bis 11.01.23"
+	spiel_00002
+		budget = 50000
+		kosten = 8000
+		aufteilung = 60,25,15
+		spiel_name = "SAP Streetplay"
+		spiel_ort = "Mannheim"
+		spiel_zeit = "19.05 bis 20.05.23"
+	spiel_00003
+		budget = 35000
+		kosten = 5000
+		aufteilung = 70,20,10
+		spiel_name = "Nike Tournament"
+		spiel_ort = "Stuttgart"
+		spiel_zeit = "25.05 bis 26.05.23"</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>680</x><y>750</y><w>330</w><h>40</h></coordinates><panel_attributes>bg=green
+transparency=80
+Preisgeld errechnet sich aus Funktion
+Angaben werden mit Sponsoren verbunden</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>1670</y><w>1300</w><h>30</h></coordinates><panel_attributes>bg=black
+fg=white
+ENDE</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLHierarchy</id><coordinates><x>420</x><y>800</y><w>410</w><h>750</h></coordinates><panel_attributes>fg=cyan
+type=Package
+Teams
+	team_00003
+		name = "Seven Sons"
+		punkte = 4
+		körbe = 49
+		fouls = 4
+		spiele = 3
+		player_00003_00001 = spieler_00001
+		player_00003_00002 = spieler_00030
+		player_00003_00003 = spieler_00500
+		player_00003_00004 = spieler_00123
+		player_00003_00005 = spieler_00025
+	team_00005
+		name = "Master Balls"
+		punkte = 1
+		körbe = 11
+		fouls = 1
+		spiele = 1
+		player_00005_00001 = spieler_01001
+		player_00005_00002 = spieler_00231
+		player_00005_00003 = spieler_00124
+		player_00005_00004 = spieler_00100
+		player_00005_00005 = spieler_01225</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>420</x><y>1560</y><w>410</w><h>60</h></coordinates><panel_attributes>bg=cyan
+transparency=80
+Eingaben werden übernommen, wenn nicht NULL, das bedeutet
+dass der Sponsor kein Recht oder kein Bedarf an Entscheidung hat,
+also nur der Veranstalter entscheidet</panel_attributes><additional_attributes></additional_attributes></element></diagram>
