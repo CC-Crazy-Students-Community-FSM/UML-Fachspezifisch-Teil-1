@@ -1,27 +1,23 @@
-<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLHierarchy</id><coordinates><x>0</x><y>0</y><w>330</w><h>740</h></coordinates><panel_attributes>fg=cyan
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLHierarchy</id><coordinates><x>0</x><y>0</y><w>330</w><h>560</h></coordinates><panel_attributes>fg=cyan
 type=Package
 Spieler
-	spieler_00001
-		punkte
-			spiel_00001 = 1
-			spiel_00002 = 2
-			spiel_00003 = 2
-		körbe
-			spiel_00001 = 3
-			spiel_00002 = 7
-			spiel_00003 = 12
-		fouls
-			spiel_00001 = 0
-			spiel_00002 = 2
-			spiel_00003 = 1
-		teams
-			spiel_00001 = team_00003
-			spiel_00002 = team_00003
-			spiel_00002 = team_00003
-		status
-			spiel_00001 = spieler
-			spiel_00002 = ersatz
-			spiel_0003 = kapitän</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>750</y><w>330</w><h>40</h></coordinates><panel_attributes>bg=cyan
+	spieler_id
+		00001
+	spieler_name
+		Sandro Simperl
+	spieler_punkte
+		0
+	spieler_körbe_2
+		0
+	spieler_körbe_3
+		0
+	spieler_fauls
+		0
+	spieler_team
+		0
+	spieler_status
+		0
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>570</y><w>330</w><h>40</h></coordinates><panel_attributes>bg=cyan
 transparency=80
 gesamtpunkte  oder - körbe, 
 ergeben sich nach berechnung</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>340</x><y>750</y><w>330</w><h>40</h></coordinates><panel_attributes>bg=orange
