@@ -1,0 +1,119 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLObject</id><coordinates><x>30</x><y>10</y><w>1070</w><h>660</h></coordinates><panel_attributes>Eingabemaske für eine neue oder aktuelle Begegnung
+valign=top
+bg=black
+fg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>150</y><w>260</w><h>40</h></coordinates><panel_attributes>    SAP Street Fight I
+halign=left
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>60</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>Main
+bg=cyan
+transparency=50
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>300</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>Show a sponsor
+bg=cyan
+transparency=50
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>180</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>Add a sponsor
+bg=cyan
+transparency=50
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>290</y><w>260</w><h>40</h></coordinates><panel_attributes>    15 000 €
+halign=left
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>430</y><w>260</w><h>40</h></coordinates><panel_attributes>    Dietmar Hopp
+halign=left
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>800</x><y>30</y><w>280</w><h>40</h></coordinates><panel_attributes>add sponsor | save sponsor | close
+bg=cyan
+transparency=50
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>590</x><y>120</y><w>440</w><h>490</h></coordinates><panel_attributes>Teaminformations
+valign=top
+bg=light_gray
+transparency=90
+
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>200</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+00001
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>650</x><y>260</y><w>330</w><h>70</h></coordinates><panel_attributes>The Cream Team
+fontsize=15
+fg=green
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>350</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+5
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>130</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsored trunament
+fg=pink
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>270</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsoring
+fg=pink
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>410</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsor contact
+fg=pink
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>180</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsor id
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>670</x><y>240</y><w>290</w><h>20</h></coordinates><panel_attributes>sponsor name
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>330</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsored games
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>400</y><w>240</w><h>20</h></coordinates><panel_attributes>current sponsoring
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>420</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+15 000 €
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>470</y><w>240</w><h>20</h></coordinates><panel_attributes>total sponsoring
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>490</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+65 000 €
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>500</y><w>260</w><h>100</h></coordinates><panel_attributes>    sap.com
+
+    (513) 766-9300
+    201 E Fifth St Ste 1911,
+    Cincinnati, OH 45202
+
+halign=left
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>480</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsor contact informations
+fg=pink
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>120</x><y>260</y><w>20</w><h>20</h></coordinates><panel_attributes>*
+fontsize=16
+fg=light_gray
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>120</x><y>400</y><w>20</w><h>20</h></coordinates><panel_attributes>*
+fontsize=16
+fg=light_gray
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>650</x><y>230</y><w>20</w><h>20</h></coordinates><panel_attributes>*
+fontsize=16
+fg=light_gray
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>120</x><y>470</y><w>20</w><h>20</h></coordinates><panel_attributes>*
+fontsize=16
+fg=light_gray
+group=group-2</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>340</x><y>80</y><w>360</w><h>150</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>340;130;230;130;230;20;10;20;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>360</y><w>140</w><h>90</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>120;70;10;70;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>420</y><w>140</w><h>100</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>120;80;10;80;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>220</x><y>80</y><w>480</w><h>170</h></coordinates><panel_attributes>lt=&lt;-
+fg=green
+group=group-1</panel_attributes><additional_attributes>460;150;330;150;330;30;10;30;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>540</x><y>220</y><w>130</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+fg=green
+group=group-1</panel_attributes><additional_attributes>110;100;10;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>200</y><w>110</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>90;100;10;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>290</y><w>140</w><h>100</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>120;80;10;80;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>840</x><y>680</y><w>260</w><h>80</h></coordinates><panel_attributes>{
+    Condition:
+        if the sponsore is changing something
+        then it could be possible to edit values
+}
+style=wordwrap
+group=group-1</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>0</x><y>320</y><w>70</w><h>410</h></coordinates><panel_attributes>lt=&lt;-
+fg=gray
+group=group-1</panel_attributes><additional_attributes>50;390;10;390;10;10;40;10</additional_attributes></element><element><id>Text</id><coordinates><x>40</x><y>670</y><w>260</w><h>80</h></coordinates><panel_attributes>{
+    Condition:
+        only if all required fields are filled
+        then the button is usable
+}
+style=wordwrap
+group=group-1</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>860</x><y>80</y><w>240</w><h>630</h></coordinates><panel_attributes>lt=&lt;-&gt;
+fg=red
+transparency=90
+group=group-1</panel_attributes><additional_attributes>100;10;220;10;220;570;10;570;10;610</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>30</y><w>790</w><h>260</h></coordinates><panel_attributes>lt=&lt;-&gt;
+fg=gray
+group=group-1</panel_attributes><additional_attributes>770;10;10;10;10;240;620;240</additional_attributes></element><element><id>Relation</id><coordinates><x>540</x><y>50</y><w>350</w><h>80</h></coordinates><panel_attributes>lt=&lt;-
+fg=green
+group=group-1</panel_attributes><additional_attributes>330;10;330;60;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>50</y><w>420</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>400;10;400;50;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>950</x><y>50</y><w>100</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
+fg=red
+group=group-1</panel_attributes><additional_attributes>80;10;80;50;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>300</y><w>110</w><h>170</h></coordinates><panel_attributes>lt=&lt;-
+fg=gray
+group=group-1</panel_attributes><additional_attributes>90;150;10;150;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>440</y><w>110</w><h>130</h></coordinates><panel_attributes>lt=&lt;-
+fg=gray
+group=group-1</panel_attributes><additional_attributes>90;110;10;110;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>260</y><w>110</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
+fg=gray
+group=group-1</panel_attributes><additional_attributes>90;50;10;50;10;10</additional_attributes></element></diagram>
