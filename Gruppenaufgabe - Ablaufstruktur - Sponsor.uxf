@@ -2,13 +2,13 @@
 valign=top
 bg=black
 fg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>150</y><w>260</w><h>40</h></coordinates><panel_attributes>    SAP Street Fight I
-halign=left</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>60</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>Main
+halign=left</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>60</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>main
 bg=cyan
 transparency=50
-group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>300</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>Show a sponsor
+group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>300</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>show a sponsor
 bg=cyan
 transparency=50
-group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>180</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>Add a sponsor
+group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>180</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>add a sponsor
 bg=cyan
 transparency=50
 group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>290</y><w>260</w><h>40</h></coordinates><panel_attributes>    15 000 €
