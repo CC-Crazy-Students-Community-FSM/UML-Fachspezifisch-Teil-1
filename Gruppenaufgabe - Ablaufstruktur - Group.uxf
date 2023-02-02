@@ -13,7 +13,7 @@ transparency=50
 group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>800</x><y>30</y><w>280</w><h>40</h></coordinates><panel_attributes>close
 bg=cyan
 transparency=50
-group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>590</x><y>120</y><w>440</w><h>490</h></coordinates><panel_attributes>Teaminformations
+group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>590</x><y>120</y><w>440</w><h>490</h></coordinates><panel_attributes>Groupinformations
 valign=top
 bg=light_gray
 transparency=90</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>200</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
