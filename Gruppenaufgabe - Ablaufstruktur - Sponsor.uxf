@@ -1,4 +1,4 @@
-<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLObject</id><coordinates><x>30</x><y>10</y><w>1070</w><h>660</h></coordinates><panel_attributes>Eingabemaske für eine neue oder aktuelle Begegnung
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLObject</id><coordinates><x>30</x><y>10</y><w>1070</w><h>660</h></coordinates><panel_attributes>input and output for sponsors
 valign=top
 bg=black
 fg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>150</y><w>260</w><h>40</h></coordinates><panel_attributes>    SAP Street Fight I
@@ -22,14 +22,19 @@ bg=light_gray
 transparency=90
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>200</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
-00001</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>650</x><y>260</y><w>330</w><h>70</h></coordinates><panel_attributes>The Cream Team
+00001</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>650</x><y>260</y><w>330</w><h>70</h></coordinates><panel_attributes>SAP
 fontsize=15
-fg=green</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>350</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+fg=green
+bg=green
+transparency=90
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>350</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
 5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>130</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsored trunament
 fg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>270</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsoring
 fg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>410</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsor contact
-fg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>180</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsor id</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>670</x><y>240</y><w>290</w><h>20</h></coordinates><panel_attributes>sponsor name</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>330</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsored games</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>400</y><w>240</w><h>20</h></coordinates><panel_attributes>current sponsoring</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>420</y><w>260</w><h>40</h></coordinates><panel_attributes>15 000 €</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>470</y><w>240</w><h>20</h></coordinates><panel_attributes>total sponsoring</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>490</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+fg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>180</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsor id</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>670</x><y>240</y><w>290</w><h>20</h></coordinates><panel_attributes>sponsor name</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>330</y><w>240</w><h>20</h></coordinates><panel_attributes>sponsored games</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>400</y><w>240</w><h>20</h></coordinates><panel_attributes>current sponsoring</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>420</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+15 000 €</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>470</y><w>240</w><h>20</h></coordinates><panel_attributes>total sponsoring</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>490</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
 65 000 €</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>500</y><w>260</w><h>100</h></coordinates><panel_attributes>    sap.com
 
@@ -46,4 +51,5 @@ fg=light_gray</panel_attributes><additional_attributes></additional_attributes><
 fontsize=16
 fg=light_gray</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>120</x><y>470</y><w>20</w><h>20</h></coordinates><panel_attributes>*
 fontsize=16
-fg=light_gray</panel_attributes><additional_attributes></additional_attributes></element></diagram>
+fg=light_gray</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>920</x><y>200</y><w>30</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+fg=red</panel_attributes><additional_attributes>10;20;10;10</additional_attributes></element></diagram>

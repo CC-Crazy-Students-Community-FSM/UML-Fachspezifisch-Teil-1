@@ -1,4 +1,4 @@
-<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLObject</id><coordinates><x>30</x><y>10</y><w>1070</w><h>660</h></coordinates><panel_attributes>Eingabemaske für eine neue oder aktuelle Begegnung
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLObject</id><coordinates><x>30</x><y>10</y><w>1070</w><h>660</h></coordinates><panel_attributes>input and output for sponsors
 valign=top
 bg=black
 fg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>120</x><y>150</y><w>260</w><h>40</h></coordinates><panel_attributes>    SAP Street Fight I
@@ -27,9 +27,11 @@ transparency=90
 group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>200</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
 00001
-group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>650</x><y>260</y><w>330</w><h>70</h></coordinates><panel_attributes>The Cream Team
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>650</x><y>260</y><w>330</w><h>70</h></coordinates><panel_attributes>SAP
 fontsize=15
 fg=green
+bg=green
+transparency=90
 group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>350</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
 5
@@ -116,4 +118,5 @@ group=group-1</panel_attributes><additional_attributes>90;150;10;150;10;10</addi
 fg=gray
 group=group-1</panel_attributes><additional_attributes>90;110;10;110;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>260</y><w>110</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
 fg=gray
-group=group-1</panel_attributes><additional_attributes>90;50;10;50;10;10</additional_attributes></element></diagram>
+group=group-1</panel_attributes><additional_attributes>90;50;10;50;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>920</x><y>200</y><w>30</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+fg=red</panel_attributes><additional_attributes>10;20;10;10</additional_attributes></element></diagram>

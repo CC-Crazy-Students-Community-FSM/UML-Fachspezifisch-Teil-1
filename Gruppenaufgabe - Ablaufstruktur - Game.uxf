@@ -1,0 +1,88 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLObject</id><coordinates><x>20</x><y>0</y><w>1070</w><h>790</h></coordinates><panel_attributes>output for games
+valign=top
+bg=black</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>210</y><w>260</w><h>40</h></coordinates><panel_attributes>    Sandro
+halign=left
+fg=gray
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>170</y><w>260</w><h>40</h></coordinates><panel_attributes>    Mia
+halign=left
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>50</x><y>40</y><w>100</w><h>40</h></coordinates><panel_attributes>Main
+bg=cyan
+transparency=50
+group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>250</y><w>260</w><h>40</h></coordinates><panel_attributes>    Sabine
+halign=left
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>290</y><w>260</w><h>40</h></coordinates><panel_attributes>    Marcel
+halign=left
+fg=gray
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>330</y><w>260</w><h>40</h></coordinates><panel_attributes>    Arben
+halign=left
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>790</x><y>20</y><w>280</w><h>40</h></coordinates><panel_attributes>close
+bg=cyan
+transparency=50
+group=group-16</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>180</y><w>80</w><h>20</h></coordinates><panel_attributes>teamleader
+fg=pink
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>220</y><w>80</w><h>20</h></coordinates><panel_attributes>substitutes
+fg=gray
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>260</y><w>80</w><h>20</h></coordinates><panel_attributes>player
+fg=pink
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>300</y><w>80</w><h>20</h></coordinates><panel_attributes>substitutes
+fg=gray
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>340</y><w>80</w><h>20</h></coordinates><panel_attributes>player
+fg=pink
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>580</x><y>110</y><w>440</w><h>660</h></coordinates><panel_attributes>Teaminformations
+valign=top
+bg=light_gray
+transparency=90
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>190</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+00001</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>120</x><y>150</y><w>240</w><h>20</h></coordinates><panel_attributes>players team a
+fg=pink
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>170</y><w>240</w><h>20</h></coordinates><panel_attributes>game id</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>440</y><w>230</w><h>20</h></coordinates><panel_attributes>team a baskets</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>460</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+18</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>510</y><w>230</w><h>20</h></coordinates><panel_attributes>team b baskets</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>530</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>910</x><y>190</y><w>30</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+fg=red</panel_attributes><additional_attributes>10;20;10;10</additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>360</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+Hardcore Müller</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>340</y><w>230</w><h>20</h></coordinates><panel_attributes>team b</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>270</y><w>230</w><h>20</h></coordinates><panel_attributes>team a</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>290</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+The Cream Team</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>630</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+0</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>610</y><w>230</w><h>20</h></coordinates><panel_attributes>team a fouls</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>670</x><y>700</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+transparency=90
+0</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>680</x><y>680</y><w>230</w><h>20</h></coordinates><panel_attributes>team b fouls</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>120</x><y>450</y><w>240</w><h>20</h></coordinates><panel_attributes>players team b
+fg=pink
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>470</y><w>260</w><h>40</h></coordinates><panel_attributes>    Daniela
+halign=left
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>510</y><w>260</w><h>40</h></coordinates><panel_attributes>    Biaggio
+halign=left
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>550</y><w>260</w><h>40</h></coordinates><panel_attributes>    Maik
+halign=left
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>590</y><w>260</w><h>40</h></coordinates><panel_attributes>    Mathias
+halign=left
+fg=gray
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>110</x><y>630</y><w>260</w><h>40</h></coordinates><panel_attributes>    Michael
+halign=left
+fg=gray
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>480</y><w>80</w><h>20</h></coordinates><panel_attributes>teamleader
+fg=pink
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>520</y><w>80</w><h>20</h></coordinates><panel_attributes>player
+fg=pink
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>560</y><w>80</w><h>20</h></coordinates><panel_attributes>player
+fg=pink
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>600</y><w>80</w><h>20</h></coordinates><panel_attributes>substitutes
+fg=gray
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>380</x><y>640</y><w>80</w><h>20</h></coordinates><panel_attributes>substitutes
+fg=gray
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>60</x><y>170</y><w>50</w><h>40</h></coordinates><panel_attributes>best
+player
+type=sender
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLSpecialState</id><coordinates><x>50</x><y>170</y><w>20</w><h>20</h></coordinates><panel_attributes>type=final
+fg=white
+bg=green
+group=group-5</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>60</x><y>550</y><w>50</w><h>40</h></coordinates><panel_attributes>best
+player
+type=sender
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLSpecialState</id><coordinates><x>50</x><y>550</y><w>20</w><h>20</h></coordinates><panel_attributes>type=final
+fg=white
+bg=green
+group=group-4</panel_attributes><additional_attributes></additional_attributes></element></diagram>
