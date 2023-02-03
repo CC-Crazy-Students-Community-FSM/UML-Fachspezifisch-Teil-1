@@ -13,7 +13,7 @@ bg=gray
 transparency=95
 group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>30</x><y>530</y><w>230</w><h>20</h></coordinates><panel_attributes>support information
 fg=gray
-group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>320</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>groups
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>320</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>games
 bg=cyan
 transparency=50</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>200</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>tournaments
 bg=cyan
@@ -34,9 +34,9 @@ transparency=90
 26</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>570</x><y>120</y><w>440</w><h>490</h></coordinates><panel_attributes>Current Informations
 valign=top
 bg=light_gray
-transparency=90</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>440</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>teams
+transparency=90</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>440</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>groups
 bg=cyan
-transparency=50</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>560</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>sponsors
+transparency=50</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>sponsors
 bg=cyan
 transparency=50</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>660</x><y>340</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
@@ -50,7 +50,7 @@ group=group-6
 Welcome Mr Hasanovic
 
 no opened tasks
-no unread messages</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>720</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>messages
+no unread messages</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>840</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>messages
 bg=cyan
 transparency=50</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>90</x><y>390</y><w>300</w><h>30</h></coordinates><panel_attributes>terminal
 fg=gray
@@ -60,4 +60,6 @@ bg=orange
 transparency=90
 system running well
 no errors detected
-group=group-8</panel_attributes><additional_attributes></additional_attributes></element></diagram>
+group=group-8</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>560</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>teams
+bg=cyan
+transparency=50</panel_attributes><additional_attributes></additional_attributes></element></diagram>
