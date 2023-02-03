@@ -1,7 +1,7 @@
 <diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLObject</id><coordinates><x>10</x><y>10</y><w>1070</w><h>660</h></coordinates><panel_attributes>main windows
 valign=top
 bg=black
-fg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>20</x><y>550</y><w>260</w><h>100</h></coordinates><panel_attributes>    mia@istheb.est
+fg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>30</x><y>550</y><w>260</w><h>100</h></coordinates><panel_attributes>    mia@istheb.est
 
     (555) 777-8899
     185 E Market St #551
@@ -11,7 +11,7 @@ halign=left
 fg=gray
 bg=gray
 transparency=95
-group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>30</x><y>530</y><w>230</w><h>20</h></coordinates><panel_attributes>support information
+group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>40</x><y>530</y><w>230</w><h>20</h></coordinates><panel_attributes>support information
 fg=gray
 group=group-3</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>320</x><y>50</y><w>100</w><h>40</h></coordinates><panel_attributes>games
 bg=cyan
