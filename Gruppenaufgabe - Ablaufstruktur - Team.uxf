@@ -52,7 +52,7 @@ bg=green
 transparency=90
 group=group-13</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>350</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
-not set
+not set | on waitinglist
 group=group-13</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>130</y><w>240</w><h>20</h></coordinates><panel_attributes>player one
 fg=pink
 group=group-12</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>200</y><w>240</w><h>20</h></coordinates><panel_attributes>player two
@@ -103,5 +103,5 @@ fg=light_gray
 group=group-12</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>650</x><y>240</y><w>20</w><h>20</h></coordinates><panel_attributes>*
 fontsize=16
 fg=light_gray
-group=group-13</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>920</x><y>200</y><w>30</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+group=group-13</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>950</x><y>260</y><w>30</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
 fg=red</panel_attributes><additional_attributes>10;20;10;10</additional_attributes></element></diagram>

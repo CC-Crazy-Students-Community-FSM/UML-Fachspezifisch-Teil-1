@@ -35,9 +35,9 @@ bg=light_gray
 transparency=90
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>200</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
-00001</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>160</y><w>240</w><h>20</h></coordinates><panel_attributes>players team a
+Fri, 13th Feb. 2024</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>130</x><y>160</y><w>240</w><h>20</h></coordinates><panel_attributes>players team a
 fg=pink
-group=group-9</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>180</y><w>240</w><h>20</h></coordinates><panel_attributes>game id</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>450</y><w>230</w><h>20</h></coordinates><panel_attributes>team a baskets</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>470</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
+group=group-9</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>180</y><w>240</w><h>20</h></coordinates><panel_attributes>game date</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>450</y><w>230</w><h>20</h></coordinates><panel_attributes>team a baskets</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>470</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
 18</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>690</x><y>520</y><w>230</w><h>20</h></coordinates><panel_attributes>team b baskets</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>680</x><y>540</y><w>260</w><h>40</h></coordinates><panel_attributes>bg=red
 transparency=90
