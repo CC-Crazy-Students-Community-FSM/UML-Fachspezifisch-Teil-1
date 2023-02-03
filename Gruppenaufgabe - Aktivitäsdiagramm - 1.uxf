@@ -276,4 +276,5 @@ group=group-101</panel_attributes><additional_attributes>10;30;10;10</additional
 group=group-101</panel_attributes><additional_attributes>30;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>360</y><w>50</w><h>30</h></coordinates><panel_attributes>lt=-
 group=group-101</panel_attributes><additional_attributes>10;10;30;10</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>340</y><w>30</w><h>50</h></coordinates><panel_attributes>lt=-
 group=group-101</panel_attributes><additional_attributes>10;30;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>190</x><y>360</y><w>30</w><h>50</h></coordinates><panel_attributes>lt=&lt;-
-group=group-101</panel_attributes><additional_attributes>10;30;10;10</additional_attributes></element></diagram>
+group=group-101</panel_attributes><additional_attributes>10;30;10;10</additional_attributes></element><element><id>UMLSpecialState</id><coordinates><x>60</x><y>480</y><w>260</w><h>360</h></coordinates><panel_attributes>type=termination
+fg=red</panel_attributes><additional_attributes></additional_attributes></element></diagram>
